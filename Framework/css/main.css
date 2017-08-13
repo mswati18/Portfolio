@@ -1,0 +1,29 @@
+hr
+{
+	width: 10px;
+}
+img
+{
+	max-width: 100%;
+	max-height: 100%;
+	object-fit: contain;
+}
+*
+{
+	font-family: 'Indie Flower', cursive;
+}
+h2
+{
+	font-family: 'Frijole', cursive;
+	height: 10px;
+}
+.customHr {
+    width: 95%
+    font-size: 1px;
+    color: rgba(0, 0, 0, 0);
+    line-height: 3px;
+
+    background-color: #FF4500;
+    margin-top: -6px;
+    margin-bottom: 10px;
+}
